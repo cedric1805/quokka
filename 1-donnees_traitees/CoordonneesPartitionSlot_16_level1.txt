@@ -1,0 +1,19 @@
+===========================================================================================================================================================
+filename//num_slot//sous_slot_niveau1//sous_slot_niveau2//sous_slot_niveau3//sous_slot_niveau4//sous_slot_niveau5//row_min//row_max//col_min//col_max
+===========================================================================================================================================================
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	1	16	0	0	0	0	212	532	4159	4411
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	2	16	0	0	0	0	532	852	4159	4411
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	3	16	0	0	0	0	852	1172	4159	4411
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	4	16	0	0	0	0	1172	1492	4159	4411
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	5	16	0	0	0	0	1172	1492	4411	4663
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	6	16	0	0	0	0	852	1172	4411	4663
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	7	16	0	0	0	0	532	852	4411	4663
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	8	16	0	0	0	0	212	532	4411	4663
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	9	16	0	0	0	0	212	532	4663	4915
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	10	16	0	0	0	0	532	852	4663	4915
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	11	16	0	0	0	0	852	1172	4663	4915
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	12	16	0	0	0	0	1172	1492	4663	4915
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	13	16	0	0	0	0	1172	1492	4915	5167
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	14	16	0	0	0	0	852	1172	4915	5167
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	15	16	0	0	0	0	532	852	4915	5167
+/Users/cmenut/Desktop/stage_it2/3-code/0-matlab/2-assemble/1-donnees_traitees_GOCI_L2/G20130529001642.L2_LAC_OC	16	16	0	0	0	0	212	532	4915	5167

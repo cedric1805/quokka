@@ -1,0 +1,14 @@
+==============================================================================
+Juillet, 2016 	
+==============================================================================	
+#######################
+#    0-GOCI_L1B       #
+#######################
+Les données GOCI L1B peuvent être télécharger aux adresses suivantes :
+	http://oceandata.sci.gsfc.nasa.gov/GOCI/L1
+	http://kosc.kiost.ac/eng/p10/kosc_p11.html
+Les données L1B sont identiques suivant la source. Elles peuvent être également telecharger par ftp grace a l’ACRI.
+
+#######################
+#    1-MODIS_L1A_LAC  #  
+#######################
